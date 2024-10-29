@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "ES2015",
+    "lib": [
+      "ESNext.Array"
+    ],
+    "module": "commonjs",
+    "declaration": false,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
